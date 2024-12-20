@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shivaa
+- 👋 Hi, I’m @ashok
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-  b.shiva512
+  a.ashok506-
 
 <!---
 sushmitha480/sushmitha480 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
